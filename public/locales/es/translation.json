@@ -1,18 +1,45 @@
 {
   "header": {
-    "slogan": "¡Apps con impacto!",
+    "slogan": "Sistemas web listos para operar",
     "contactUs": "Contáctanos"
   },
+  "meta": {
+    "title": "KoiPuni Code - Estudio de Sistemas Web",
+    "description": "Estudio boutique que construye sistemas web listos para uso real en producción."
+  },
   "hero": {
-    "we": "Nosotros",
-    "build": "creamos",
-    "cool": "potentes",
-    "webApps": "soluciones web",
-    "description": "Somos una StartUp dedicada a dar vida a tus ideas y diseños de Apps",
-    "getInTouch": "Contáctanos"
+    "we": "Construimos",
+    "build": "sistemas web",
+    "cool": "pensados para",
+    "webApps": "producción",
+    "description": "De MVPs a plataformas completas: rendimiento, mantenibilidad y una experiencia simple de usar. Menos promesas genéricas. Más software útil.",
+    "getInTouch": "Hablemos con el estudio"
   },
   "projects": {
     "title": "Proyectos Destacados",
+    "productionSystemsTitle": "Sistemas en producción",
+    "polaris": {
+      "title": "Polaris – Tutorías personalizadas",
+      "description": "Plataforma educativa con tutorías personalizadas y una experiencia pensada para uso diario real.",
+      "chip1": "App Web",
+      "chip2": "Educación",
+      "chip3": "Producción",
+      "altHero": "Polaris – Vista general",
+      "altFeature": "Polaris – Sección de información",
+      "altAboutContact": "Polaris – Sobre / contacto",
+      "altHero2": "Polaris – Captura"
+    },
+    "balgu": {
+      "title": "Balgu Cocina – Delivery",
+      "description": "Flujo de pedidos con checkout por WhatsApp, navegación simple del menú y foco en rapidez para el día a día.",
+      "chip1": "Comercio",
+      "chip2": "Checkout por WhatsApp",
+      "chip3": "Producción",
+      "altHero": "Balgu Cocina – Vista general",
+      "altMenu": "Balgu Cocina – Menú",
+      "altDeliveryMap": "Balgu Cocina – Zona de entrega / mapa",
+      "altHero2": "Balgu Cocina – Captura"
+    },
     "comingSoon": "Próximamente",
     "medritte": {
       "title": "MeDritte (Próximamente)",
@@ -37,26 +64,26 @@
     "title": "Nuestros Servicios",
     "design": {
       "title": "Diseño Web",
-      "description": "Creamos interfaces web hermosas, responsivas y amigables que hacen destacar tu marca."
+      "description": "Diseñamos e implementamos interfaces claras y consistentes, priorizando usabilidad y rendimiento."
     },
     "server": {
       "title": "Soluciones de Servidor",
-      "description": "Construimos sistemas backend robustos y escalables que impulsan tus aplicaciones de manera confiable."
+      "description": "Backends pensados para operar: arquitectura mantenible, escalabilidad real y respuestas rápidas."
     },
     "seo": {
       "title": "Optimización SEO",
-      "description": "Mejoramos la visibilidad y el ranking de tu sitio web en los motores de búsqueda para alcanzar más clientes."
+      "description": "SEO técnico: estructura, rendimiento y contenido indexable para mejorar resultados orgánicos."
     }
   },
   "about": {
     "title": "Sobre Nosotros",
-    "description1": "Somos un equipo apasionado de desarrolladores y diseñadores dedicados a crear experiencias digitales excepcionales. Con años de experiencia en desarrollo web, aportamos creatividad y experiencia técnica a cada proyecto.",
-    "description2": "Nuestra misión es ayudar a las empresas a prosperar en el mundo digital mediante la entrega de soluciones web innovadoras, fáciles de usar y de alto rendimiento que generen un impacto real.",
+    "description1": "Somos un estudio enfocado en construir productos web que funcionan en condiciones reales. Priorizamos interfaces claras, sistemas mantenibles y decisiones técnicas que se sostienen en producción.",
+    "description2": "Nos involucramos desde la definición del problema hasta el despliegue: rendimiento, mantenibilidad y una experiencia fácil de usar. Menos promesas genéricas. Más software útil y estable.",
     "values": {
-      "title": "Nuestros Valores",
-      "innovation": "Innovación en cada línea de código",
-      "quality": "Desarrollo orientado a la calidad",
-      "userCentric": "Enfoque de diseño centrado en el usuario"
+      "title": "Principios de confianza",
+      "innovation": "Código mantenible",
+      "quality": "Interfaces claras",
+      "userCentric": "Pensado para producción"
     }
   },
   "footer": {
@@ -72,17 +99,20 @@
     "message": "Mensaje",
     "submit": "Enviar Mensaje",
     "thankYou": "¡Gracias por tu mensaje!",
-    "whatsapp": "Chatear por WhatsApp",
-    "reachWhatsapp": "Contáctanos por WhatsApp",
+    "whatsapp": "WhatsApp",
+    "reachWhatsapp": "Escribinos por WhatsApp",
     "alreadySubmitted": "Hemos recibido tu mensaje y nos pondremos en contacto contigo pronto.",
-    "submitting": "Enviando..."
+    "submitting": "Enviando...",
+    "submitSuccess": "Mensaje enviado correctamente.",
+    "submitFailed": "No se pudo enviar el mensaje",
+    "submitError": "Error al enviar el mensaje"
   },
   "testimonials": {
     "title": "Nuestros Clientes",
     "subtitle": "Trabajando juntos para dar vida a las ideas",
     "laura": {
-      "name": "Laura Margarita Portillo",
-      "role": "Profesional de la Salud",
+      "name": "Balgu Cocina",
+      "role": "Casa de comidas casera",
       "text": "Trabajar con KoiPuni Code en mi sistema de gestión de práctica médica ha sido una gran experiencia. Su comprensión de los flujos de trabajo sanitarios y atención al detalle es exactamente lo que estaba buscando."
     },
     "estefania": {

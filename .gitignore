@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local AI workspace artifacts (keep repo skills only)
+.agents/
+.claude/
+skills-lock.json

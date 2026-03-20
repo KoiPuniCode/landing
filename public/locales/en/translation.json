@@ -1,18 +1,45 @@
 {
   "header": {
-    "slogan": "Apps with impact!",
+    "slogan": "Web systems built to run",
     "contactUs": "Contact Us"
   },
+  "meta": {
+    "title": "KoiPuni Code - Web Systems Studio",
+    "description": "Boutique software studio building web systems for real production use."
+  },
   "hero": {
-    "we": "We",
-    "build": "build",
-    "cool": "cool",
-    "webApps": "web Apps",
-    "description": "We are a StartUp dedicated to giving life to your App ideas and designs",
-    "getInTouch": "Get in touch"
+    "we": "We build",
+    "build": "web systems",
+    "cool": "designed for",
+    "webApps": "production",
+    "description": "From MVPs to full platforms: performance, maintainability, and a simple experience to use. Less generic promises. More useful software.",
+    "getInTouch": "Talk to the studio"
   },
   "projects": {
     "title": "Featured Projects",
+    "productionSystemsTitle": "In production systems",
+    "polaris": {
+      "title": "Polaris – Personalized tutoring",
+      "description": "Education platform with personalized tutoring and a user experience designed for real, everyday use.",
+      "chip1": "Web App",
+      "chip2": "Education",
+      "chip3": "Production",
+      "altHero": "Polaris – Overview",
+      "altFeature": "Polaris – Information section",
+      "altAboutContact": "Polaris – About / contact",
+      "altHero2": "Polaris – Snapshot"
+    },
+    "balgu": {
+      "title": "Balgu Cocina – Delivery",
+      "description": "Ordering flow with WhatsApp checkout, streamlined menu browsing, and a focus on fast everyday use.",
+      "chip1": "Commerce",
+      "chip2": "WhatsApp checkout",
+      "chip3": "Production",
+      "altHero": "Balgu Cocina – Overview",
+      "altMenu": "Balgu Cocina – Menu",
+      "altDeliveryMap": "Balgu Cocina – Delivery area / map",
+      "altHero2": "Balgu Cocina – Snapshot"
+    },
     "comingSoon": "Coming Soon",
     "medritte": {
       "title": "MeDritte (Coming Soon)",
@@ -37,26 +64,26 @@
     "title": "Our Services",
     "design": {
       "title": "Web Design",
-      "description": "Creating beautiful, responsive, and user-friendly web interfaces that make your brand stand out."
+      "description": "We design and implement clear, consistent interfaces with strong usability and performance in mind."
     },
     "server": {
       "title": "Server Solutions",
-      "description": "Building robust and scalable backend systems that power your applications reliably."
+      "description": "Backends built to operate: maintainable architecture, real scalability, and fast response times."
     },
     "seo": {
       "title": "SEO Optimization",
-      "description": "Improving your website's visibility and ranking in search engines to reach more customers."
+      "description": "Technical SEO: structure, performance, and indexable content for better organic results."
     }
   },
   "about": {
     "title": "About Us",
-    "description1": "We are a passionate team of developers and designers dedicated to creating exceptional digital experiences. With years of experience in web development, we bring creativity and technical expertise to every project.",
-    "description2": "Our mission is to help businesses thrive in the digital world by delivering innovative, user-friendly, and high-performing web solutions that make a real impact.",
+    "description1": "We’re a studio focused on building web products that work in real conditions. We prioritize clear interfaces, maintainable systems, and technical decisions that hold up in production.",
+    "description2": "We get involved from problem definition to deployment: performance, maintainability, and an easy-to-use experience. Less generic promises. More useful, stable software.",
     "values": {
-      "title": "Our Values",
-      "innovation": "Innovation in every line of code",
-      "quality": "Quality-driven development",
-      "userCentric": "User-centered design approach"
+      "title": "Trust principles",
+      "innovation": "Maintainable code",
+      "quality": "Clear interfaces",
+      "userCentric": "Built for production"
     }
   },
   "footer": {
@@ -73,8 +100,11 @@
     "submit": "Send Message",
     "thankYou": "Thank you for your message!",
     "submitting": "Submitting...",
-    "whatsapp": "Chat on WhatsApp",
-    "reachWhatsapp": "Reach us on WhatsApp",
+    "submitSuccess": "Message sent successfully!",
+    "submitFailed": "Failed to send message",
+    "submitError": "Error sending message",
+    "whatsapp": "WhatsApp",
+    "reachWhatsapp": "Message us on WhatsApp",
     "alreadySubmitted": "We've received your message and will get back to you soon."
   },
   "testimonials": {
